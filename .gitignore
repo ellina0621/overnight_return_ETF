@@ -1,0 +1,12 @@
+# Python 編譯檔案
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 環境變數檔案 (最重要！絕對不要上傳)
+.env
+
+# 虛擬環境
+venv/
+.venv/
+env/
